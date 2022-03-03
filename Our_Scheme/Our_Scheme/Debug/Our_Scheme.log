@@ -1,0 +1,28 @@
+﻿  Our_Scheme.cpp
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(130,15): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(145,15): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(527,29): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(680,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(683,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(690,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(721,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(725,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(772,25): warning C4018: '<': signed/unsigned 不相符
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(925,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(943,36): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(946,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(950,37): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(956,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(958,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(962,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(964,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(968,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(970,29): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1064,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1070,28): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1226,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1227,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1253,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1254,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Our_Scheme\Our_Scheme.cpp(1407,25): warning C4018: '<': signed/unsigned 不相符
+  Our_Scheme.vcxproj -> D:\College\PL\Scheme\PL_Scheme\Our_Scheme\Debug\Our_Scheme.exe
